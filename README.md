@@ -19,6 +19,7 @@ https://zenodo.org/records/14676047
 
 #### DILIGeNN Data Preprocessing.ipynb
 Preprocessing algorithm including molecule standardisation, optimisation and custom graph generation in PyTorch
+
 **Augmented features**: Partial charges / Bond Lengths  
 **Updated features**: Atomic / Bond features from the 3D optimized molecules
 
