@@ -7,7 +7,10 @@
 </p>
 
 
-![DILIGeNN_original](https://github.com/user-attachments/assets/3e874068-055b-4387-b05c-971b096e6adc)
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/3e874068-055b-4387-b05c-971b096e6adc" width="80%" alt="DILIGeNN_original">
+</p>
+
 
 DILIGeNN is a GNN framework that extracts graph features from 3D optimised molecular structures as is done in target-based drug discovery and molecular docking simulation. Our method is the first to encode spatial and electrostatic information into a single graph representation, as opposed to other work that require multiple graphs or additional chemical descriptors for feature representation. Our approach, using warm starts following repeated early stopping during training, outperforms the current state-of-the-art methods in liver toxicity (DILI), permeability (BBBP) and activity (BACE) prediction tasks.
 
