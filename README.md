@@ -19,15 +19,15 @@ https://zenodo.org/records/14676047
 
 #### DILIGeNN Data Preprocessing.ipynb
 Preprocessing algorithm including molecule standardisation, optimisation and custom graph generation in PyTorch
-
+<!--
 **Augmented features**: Partial charges / Bond Lengths  
 **Updated features**: Atomic / Bond features from the 3D optimized molecules
+-->
 
-<!--
 <p align="center">
     <img src="https://github.com/user-attachments/assets/42712879-0eb2-43ca-82eb-9ba676915b68" width="50%" alt="github1">
 </p>
--->
+
 
 #### DILIGeNN Hyperparameter optimisation.ipynb
 Hyperparameter optimisation algorithm for selecting the optimal hyperparameters using grid search
