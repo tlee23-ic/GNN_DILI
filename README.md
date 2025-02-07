@@ -2,12 +2,13 @@
 
 [![DOI:10.26434/chemrxiv-2024-d12gk-v2](http://img.shields.io/badge/DOI-10.26434/chemrxiv.2024.d12gk.v2-F1E518.svg)](https://doi.org/10.26434/chemrxiv-2024-d12gk-v2)
 
+<!--
 <p align="center">
     <a href="https://doi.org/10.26434/chemrxiv-2024-d12gk-v2">
         <img src="https://github.com/user-attachments/assets/724f0851-b18a-49cb-99ba-dc151ded3e9e" width="150" alt="DOI Badge" />
     </a>
 </p>
-
+-->
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/3e874068-055b-4387-b05c-971b096e6adc" width="80%" alt="DILIGeNN_original">
