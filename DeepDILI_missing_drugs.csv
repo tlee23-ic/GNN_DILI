@@ -1,0 +1,9 @@
+CID,Canonical SMILES,CompoundName,initial_approval_year,DILI_label,Usage,mold2_prob_DeepDILI,mold2_class_DeepDILI,mol2vec_prob_DeepDILI,mol2vec_class_DeepDILI,maccs_prob_DeepDILI,maccs_class_DeepDILI,error_msg,smiles_std
+16682734,O.O=C1O[Bi]Oc2ccccc12,bismuth subsalicylate,1954,0,training_set_1,,,,,,,Contains uncommon element: 83,
+45266800,CC1(C)S[C@@H](N[C@H]1C(=O)O)C(NC(=O)Cc2ccccc2)C(=O)NCCCC[C@@H](N)C(=O)O.NCCCC[C@@H](N)C(=O)O,benzylpenicilloyl polylysine,1974,0,training_set_1,,,,,,,Success,CC1(C)S[C@H](C(NC(=O)Cc2ccccc2)C(=O)NCCCCC(N)C(=O)O)NC1C(=O)O
+1985,CC(=O)Nc1cc(ccc1O)[As](=O)(O)O,acetarsol,1964,1,training_set_1,,,,,,,Contains uncommon element: 33,
+24846132,COC1C(O)C(O)C(OCC2OC(OC3C(O)C(O)C(C)OC3CO)C(O)C(O)C2OC4OC(CO)C(OC)C(O)C4OCCO)OC1CO,hetastarch,1991,0,training_set_2,,,,,,,Success,COC1C(CO)OC(OCC2OC(OC3C(CO)OC(C)C(O)C3O)C(O)C(O)C2OC2OC(CO)C(OC)C(O)C2OCCO)C(O)C1O
+75905,OS(=O)(=O)c1ccc(C=C)cc1,sodium polystyrene sulfonate,1958,0,training_set_2,,,,,,,Success,C=Cc1ccc(S(=O)(=O)O)cc1
+2349,CC1(C)SC2C(NC(=O)Cc3ccccc3)C(=O)N2C1C(=O)O,penicillin,1942,1,training_set_2,,,,,,,Success,CC1(C)SC2C(NC(=O)Cc3ccccc3)C(=O)N2C1C(=O)O
+387447,CC(C)C[C@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)c2cnccn2)B(O)O,bortezomib,2003,1,test,0.54993016,1.0,0.6460425,1.0,0.6426312,1.0,Contains uncommon element: 5,
+4870,CN1C(CSCC(F)(F)F)Nc2cc(Cl)c(cc2S1(=O)=O)S(=O)(=O)N,polythiazide,2005,0,test,0.92819476,1.0,0.81613815,1.0,0.70309526,1.0,Success,CN1C(CSCC(F)(F)F)Nc2cc(Cl)c(S(N)(=O)=O)cc2S1(=O)=O
