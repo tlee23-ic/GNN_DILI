@@ -44,3 +44,6 @@ Bond length analysis algorithm for standardised and non-standardised molecules.
 
 #### DILIst (2020).xlsx
 US Food and Drug Administration (FDA) Drug-Induced Liver Injury Severity and Toxicity (DILIst) Dataset
+
+#### Supporting Documents/DILIst_bonds.csv
+The data used for statistical analysis of bond lengths to assess the effects of molecular optimisation with and without standardisation
